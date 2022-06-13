@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<facturaComputarizadaServicioBasico xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="facturaComputarizadaServicioBasico.xsd">
+  <cabecera>
+    <nitEmisor>1010413026</nitEmisor>
+    <razonSocialEmisor>SERVICIO LOCAL DE ACUEDUCTOS Y ALCANTARILLADO - ORURO</razonSocialEmisor>
+    <municipio>Oruro</municipio>
+    <telefono>5243600</telefono>
+    <numeroFactura>0000078067</numeroFactura>
+    <cuf>4522A0B5D27C5A5EAC9EAE277EFD625E3E96EB49F2172EDED40476D74</cuf>
+    <cufd>BQW9CZFdLREE=NzENEMzU0QzZBQzY=QmVATGFPSUdXVUJIwQzkzOThEMTA3M</cufd>
+    <codigoSucursal>0</codigoSucursal>
+    <direccion>AVENIDA VILLARROEL, BACKOVIC Y BRASIL, NRO:222 NORESTE, ACERA NORTE, FRENTE A LA TERMINAL DE BUSES</direccion>
+    <codigoPuntoVenta>1</codigoPuntoVenta>
+    <mes>Abril</mes>
+    <gestion>2022</gestion>
+    <ciudad>Oruro</ciudad>
+    <zona>Central</zona>
+    <numeroMedidor>A14L079733  </numeroMedidor>
+    <fechaEmision>2022-04-21T00:00:00.000</fechaEmision>
+    <nombreRazonSocial>ANTEZANA TERAN FORTUNATA Y HNA.</nombreRazonSocial>
+    <domicilioCliente>URB. J.V. NORTE VINTO MANZANO 6 LOTE 4</domicilioCliente>
+    <codigoTipoDocumentoIdentidad>1</codigoTipoDocumentoIdentidad>
+    <numeroDocumento>3327561</numeroDocumento>
+    <complemento xsi:nil="true"/>
+    <codigoCliente>6586697</codigoCliente>
+    <codigoMetodoPago>1</codigoMetodoPago>
+    <numeroTarjeta xsi:nil="true"/>
+    <montoTotal>23.97</montoTotal>
+    <montoTotalSujetoIva>23.97</montoTotalSujetoIva>
+    <consumoPeriodo>3</consumoPeriodo>
+    <beneficiarioLey1886 xsi:nil="true"/>
+    <montoDescuentoLey1886 xsi:nil="true"/>
+    <montoDescuentoTarifaDignidad xsi:nil="true"/>
+    <tasaAseo xsi:nil="true"/>
+    <tasaAlumbrado xsi:nil="true"/>
+    <ajusteNoSujetoIva xsi:nil="true"/>
+    <detalleAjusteNoSujetoIva xsi:nil="true"/>
+    <ajusteSujetoIva xsi:nil="true"/>
+    <detalleAjusteSujetoIva xsi:nil="true"/>
+    <otrosPagosNoSujetoIva xsi:nil="true"/>
+    <detalleOtrosPagosNoSujetoIva xsi:nil="true"/>
+    <otrasTasas xsi:nil="true"/>
+    <codigoMoneda>1</codigoMoneda>
+    <tipoCambio>1</tipoCambio>
+    <montoTotalMoneda>23.97</montoTotalMoneda>
+    <descuentoAdicional>0</descuentoAdicional>
+    <codigoExcepcion xsi:nil="true"/>
+    <cafc xsi:nil="true"/>
+    <leyenda>Ley Nro 453: Los servicios deben suministrarse en condiciones de inocuidad, calidad y seguridad</leyenda>
+    <usuario>PBaptista</usuario>
+    <codigoDocumentoSector>13</codigoDocumentoSector>
+  </cabecera>
+  <detalle>
+    <actividadEconomica>841001</actividadEconomica>
+    <codigoProductoSin>99100</codigoProductoSin>
+    <codigoProducto>1320</codigoProducto>
+    <descripcion>Consumo Mes</descripcion>
+    <cantidad>1</cantidad>
+    <unidadMedida>58</unidadMedida>
+    <precioUnitario>8.1</precioUnitario>
+    <montoDescuento xsi:nil="true"/>
+    <subTotal>8.1</subTotal>
+  </detalle>
+  <detalle>
+    <actividadEconomica>841001</actividadEconomica>
+    <codigoProductoSin>99100</codigoProductoSin>
+    <codigoProducto>1321</codigoProducto>
+    <descripcion>Cargo Fijo</descripcion>
+    <cantidad>1</cantidad>
+    <unidadMedida>58</unidadMedida>
+    <precioUnitario>13.97</precioUnitario>
+    <montoDescuento xsi:nil="true"/>
+    <subTotal>13.97</subTotal>
+  </detalle>
+  <detalle>
+    <actividadEconomica>841001</actividadEconomica>
+    <codigoProductoSin>99100</codigoProductoSin>
+    <codigoProducto>1322</codigoProducto>
+    <descripcion>Formulario</descripcion>
+    <cantidad>1</cantidad>
+    <unidadMedida>58</unidadMedida>
+    <precioUnitario>1.9</precioUnitario>
+    <montoDescuento xsi:nil="true"/>
+    <subTotal>1.9</subTotal>
+  </detalle>
+</facturaComputarizadaServicioBasico>
